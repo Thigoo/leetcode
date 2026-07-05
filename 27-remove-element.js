@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150
+
 function removeElement(nums, val) {
     // inicio um ponteiro k para setar e retornar o valor correto na posição correta
     let k = 0;

@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150
+
 // duas possibilidades de resolver esse problema
 
 // 1 - utilizando ponteiros para cada índice de cada array e comparando se naquela posição um é maior do que o outro, se sim então usamos o ponteiro da direita para setar o valor mais alto se não, mantém na posição
